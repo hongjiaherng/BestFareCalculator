@@ -83,4 +83,4 @@ class BestFareCalculator {
         BestFareCalculator person1 = new BestFareCalculator(days, rides, ages, disability);
         System.out.println(person1.getBestFare());
     }
-}
+} 
