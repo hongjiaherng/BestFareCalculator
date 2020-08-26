@@ -1,5 +1,6 @@
 // This is a program that calculates the best fare options in New York City.
-// Created by J Herng.
+// Created by J Herng. 
+// Try git
 import java.util.Scanner;
 class BestFareCalculator {
 
